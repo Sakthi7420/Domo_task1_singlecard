@@ -1,0 +1,17 @@
+{
+  "name": "Olist_data",
+  "version": "0.1.0",
+  "size": {
+    "width": 5,
+    "height": 3
+  },
+  "mapping": [
+    {
+      "dataSetId": "8acb50b9-d04c-4839-8944-2e71b5ad03be",
+      "alias": "chart",
+      "fields": []
+    }
+  ],
+  "fileName": "manifest.json",
+  "id": "bf903b69-8ff3-4bed-8d29-44d798e8c110"
+}
